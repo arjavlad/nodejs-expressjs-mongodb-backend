@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'the-group-api',
+      name: 'nodejs-expressjs-mongodb-backend',
       script: './dist/index.js',
       instances: 'max',
       exec_mode: 'cluster',

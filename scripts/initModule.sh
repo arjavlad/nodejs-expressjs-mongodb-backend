@@ -2,16 +2,16 @@
 
 ### Initialise a new module for the backend with basic folder and file structure.
 
-read -p "Enter the name of the module (e.g., dinner): " moduleName
+read -p "Enter the name of the module (e.g., post): " moduleName
 
 if [ -z "$moduleName" ]; then
   echo "Module name cannot be empty."
   exit 1
 fi
 
-# Convert moduleName to PascalCase (e.g., dinner -> Dinner)
+# Convert moduleName to PascalCase (e.g., post -> post)
 ModuleName="$(tr '[:lower:]' '[:upper:]' <<< ${moduleName:0:1})${moduleName:1}"
-# Convert ModuleName to uppercase (e.g., Dinner -> DINNER)
+# Convert ModuleName to uppercase (e.g., post -> post)
 MODULE_NAME_UPPER=$(echo "$ModuleName" | tr '[:lower:]' '[:upper:]')
 
 # Define paths

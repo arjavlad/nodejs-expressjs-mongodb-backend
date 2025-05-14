@@ -30,7 +30,7 @@ A robust Node.js TypeScript backend API service for NodeJS ExpressJS MongoDB bac
 │   ├── modules                   # Domain-based modules
 │   │   ├── admin                 # Admin module
 │   │   ├── auditLog              # Audit logging module
-│   │   ├── dinner                # Dinner management module
+│   │   ├── post                  # Post management module
 │   │   └── user                  # User module
 │   ├── services                  # Shared services
 │   ├── types                     # Type definitions
@@ -95,7 +95,7 @@ PORT=3000
 NODE_ENV=development
 
 # MongoDB
-MONGO_URI=mongodb://localhost:27017/the-group-db
+MONGO_URI=mongodb://localhost:27017/mydb
 
 # JWT
 JWT_SECRET=your-secret-key
