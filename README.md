@@ -1,6 +1,6 @@
-# The Group Backend API
+# NodeJS ExpressJS MongoDB backend
 
-A robust Node.js TypeScript backend API service for The Group application
+A robust Node.js TypeScript backend API service for NodeJS ExpressJS MongoDB backend application
 
 ## Tech Stack
 
@@ -78,7 +78,7 @@ Each module has a `routes` folder with the following files:
 
 ```bash
 git clone <repository-url>
-cd the-group-backend
+cd nodejs-expressjs-mongodb-backend
 ```
 
 #### Install dependencies
@@ -158,24 +158,6 @@ The API requires two levels of authentication:
    - Protected endpoints require a valid JWT token in the `Authorization` header
    - The token should be in the format: `Bearer <your-jwt-token>`
    - JWT tokens are obtained through the authentication endpoints
-
-## Payment Setup
-
-### Stripe Integration
-
-This project uses Stripe for handling payments. To set up Stripe, you need to configure the following environment variables:
-
-- `STRIPE_SECRET_KEY`: Your Stripe secret key for server-side operations.
-- `STRIPE_PUBLISHABLE_KEY`: Your Stripe publishable key for client-side operations.
-- `STRIPE_WEBHOOK_SECRET`: Your Stripe webhook secret for handling webhook events.
-
-### Payment Flow
-
-1. **Create Payment Intent**: The server creates a payment intent using the Stripe API.
-2. **Client-Side Payment**: The client uses the payment intent to complete the payment.
-3. **Webhook Handling**: The server handles webhook events from Stripe to process successful or failed payments.
-
-For more information, refer to the [Stripe documentation](https://stripe.com/docs).
 
 ### Running the Application
 
