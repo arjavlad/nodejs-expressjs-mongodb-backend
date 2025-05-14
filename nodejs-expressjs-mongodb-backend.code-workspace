@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "prettier.arrowParens": "always",
+    "prettier.trailingComma": "all",
+    "prettier.printWidth": 120,
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "eslint.format.enable": true,
+    "cSpell.words": ["cityspark", "citysparkKey", "packagesinclusions"]
+  }
+}

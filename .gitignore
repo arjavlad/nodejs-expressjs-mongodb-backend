@@ -1,0 +1,58 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build output
+dist/
+build/
+temp-build/
+*/temp-build/
+temp-build/*
+*/temp-build/*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Uploaded files
+uploads/*
+!uploads/.gitkeep
+!uploads/images/.gitkeep
+!uploads/videos/.gitkeep
+!uploads/documents/.gitkeep
+!*/.gitkeep
+
+# Testing
+coverage/*
+!coverage/.gitkeep
+
+# Build output
+dist/*
+!dist/.gitkeep
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+.tmp/
+.temp/ 
+
+requirements.txt

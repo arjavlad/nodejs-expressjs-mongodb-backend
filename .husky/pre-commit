@@ -1,0 +1,5 @@
+## Run tests
+npm test
+
+## Run Lint and TypeScript checks
+npm run check

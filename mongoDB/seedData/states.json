@@ -1,0 +1,848 @@
+[
+  {
+    "_id": "67ee69ca39dba5d248e11853",
+    "name": "Alberta",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "AB",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11854",
+    "name": "British Columbia",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "BC",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11855",
+    "name": "Manitoba",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "MB",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11856",
+    "name": "New Brunswick",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "NB",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11857",
+    "name": "Newfoundland and Labrador",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "NL",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11858",
+    "name": "Northwest Territories",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "NT",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11859",
+    "name": "Nova Scotia",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "NS",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1185a",
+    "name": "Nunavut",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "NU",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1185b",
+    "name": "Ontario",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "ON",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1185c",
+    "name": "Prince Edward Island",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "PE",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1185d",
+    "name": "Quebec",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "QC",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1185e",
+    "name": "Saskatchewan",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "SK",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1185f",
+    "name": "Yukon",
+    "country": "67ee67c23059f22ce7c38053",
+    "code": "YT",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.926Z",
+    "updatedAt": "2025-04-03T10:58:18.926Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11860",
+    "name": "Alabama",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "AL",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11861",
+    "name": "Alaska",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "AK",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11862",
+    "name": "American Samoa",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "AS",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11863",
+    "name": "Arizona",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "AZ",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11864",
+    "name": "Arkansas",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "AR",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11865",
+    "name": "Baker Island",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UM-81",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11866",
+    "name": "California",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "CA",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11867",
+    "name": "Colorado",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "CO",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11868",
+    "name": "Connecticut",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "CT",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11869",
+    "name": "Delaware",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "DE",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1186a",
+    "name": "District of Columbia",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "DC",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1186b",
+    "name": "Florida",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "FL",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1186c",
+    "name": "Georgia",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "GA",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1186d",
+    "name": "Guam",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "GU",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1186e",
+    "name": "Hawaii",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "HI",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1186f",
+    "name": "Howland Island",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UM-84",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11870",
+    "name": "Idaho",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "ID",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11871",
+    "name": "Illinois",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "IL",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11872",
+    "name": "Indiana",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "IN",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11873",
+    "name": "Iowa",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "IA",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11874",
+    "name": "Jarvis Island",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UM-86",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11875",
+    "name": "Johnston Atoll",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UM-67",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11876",
+    "name": "Kansas",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "KS",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11877",
+    "name": "Kentucky",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "KY",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11878",
+    "name": "Kingman Reef",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UM-89",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11879",
+    "name": "Louisiana",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "LA",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1187a",
+    "name": "Maine",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "ME",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.927Z",
+    "updatedAt": "2025-04-03T10:58:18.927Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1187b",
+    "name": "Maryland",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "MD",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1187c",
+    "name": "Massachusetts",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "MA",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1187d",
+    "name": "Michigan",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "MI",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1187e",
+    "name": "Midway Atoll",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UM-71",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1187f",
+    "name": "Minnesota",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "MN",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11880",
+    "name": "Mississippi",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "MS",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11881",
+    "name": "Missouri",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "MO",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11882",
+    "name": "Montana",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "MT",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11883",
+    "name": "Navassa Island",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UM-76",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11884",
+    "name": "Nebraska",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "NE",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11885",
+    "name": "Nevada",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "NV",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11886",
+    "name": "New Hampshire",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "NH",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11887",
+    "name": "New Jersey",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "NJ",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11888",
+    "name": "New Mexico",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "NM",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11889",
+    "name": "New York",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "NY",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1188a",
+    "name": "North Carolina",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "NC",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1188b",
+    "name": "North Dakota",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "ND",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1188c",
+    "name": "Northern Mariana Islands",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "MP",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1188d",
+    "name": "Ohio",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "OH",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1188e",
+    "name": "Oklahoma",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "OK",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1188f",
+    "name": "Oregon",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "OR",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11890",
+    "name": "Palmyra Atoll",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UM-95",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11891",
+    "name": "Pennsylvania",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "PA",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11892",
+    "name": "Puerto Rico",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "PR",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11893",
+    "name": "Rhode Island",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "RI",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11894",
+    "name": "South Carolina",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "SC",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11895",
+    "name": "South Dakota",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "SD",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11896",
+    "name": "Tennessee",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "TN",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11897",
+    "name": "Texas",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "TX",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11898",
+    "name": "United States Minor Outlying Islands",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UM",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e11899",
+    "name": "United States Virgin Islands",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "VI",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.928Z",
+    "updatedAt": "2025-04-03T10:58:18.928Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1189a",
+    "name": "Utah",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UT",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1189b",
+    "name": "Vermont",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "VT",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1189c",
+    "name": "Virginia",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "VA",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1189d",
+    "name": "Wake Island",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "UM-79",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1189e",
+    "name": "Washington",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "WA",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e1189f",
+    "name": "West Virginia",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "WV",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118a0",
+    "name": "Wisconsin",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "WI",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118a1",
+    "name": "Wyoming",
+    "country": "67ee67c23059f22ce7c38115",
+    "code": "WY",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118a2",
+    "name": "Buxoro Viloyati",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Buxoro Vil",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118a3",
+    "name": "Clarendon",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Clarendon",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118a4",
+    "name": "Hanover",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Hanover",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118a5",
+    "name": "Kingston",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Kingston",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118a6",
+    "name": "Manchester",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Manchester",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118a7",
+    "name": "Portland",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Portland",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118a8",
+    "name": "Saint Andrews",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Saint Andr",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118a9",
+    "name": "Saint Ann",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Saint Ann",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118aa",
+    "name": "Saint Catherine",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Saint Cath",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118ab",
+    "name": "Saint Elizabeth",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Saint Eliz",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118ac",
+    "name": "Saint James",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Saint Jame",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118ad",
+    "name": "Saint Mary",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Saint Mary",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118ae",
+    "name": "Saint Thomas",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Saint Thom",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118af",
+    "name": "Trelawney",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Trelawney",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  },
+  {
+    "_id": "67ee69ca39dba5d248e118b0",
+    "name": "Westmoreland",
+    "country": "67ee67c23059f22ce7c38098",
+    "code": "Westmorela",
+    "isActive": true,
+    "createdAt": "2025-04-03T10:58:18.929Z",
+    "updatedAt": "2025-04-03T10:58:18.929Z"
+  }
+]
